@@ -1,0 +1,8 @@
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\bin\Debug\Even and odd numbers between 1 to 35.exe.config
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\bin\Debug\Even and odd numbers between 1 to 35.exe
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\bin\Debug\Even and odd numbers between 1 to 35.pdb
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\obj\Debug\Even and odd numbers between 1 to 35.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\obj\Debug\Even and odd numbers between 1 to 35.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\obj\Debug\Even and odd numbers between 1 to 35.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\obj\Debug\Even and odd numbers between 1 to 35.exe
+C:\Users\ali\source\repos\Even and odd numbers between 1 to 35\obj\Debug\Even and odd numbers between 1 to 35.pdb
